@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mvpcalculator</string>
+    <string name="edit_text_hint">Enter an expression</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="division">/</string>
+    <string name="multiplication">*</string>
+    <string name="result">Result: </string>
+    <string name="equalSign">=</string>
+</resources>
